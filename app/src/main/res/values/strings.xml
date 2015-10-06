@@ -4,6 +4,9 @@
     <string name="header_text">Breast Cancer APP</string>
     <string name="title_activity_bcprevention">BCPrevention</string>
     <string name="title_activity_bccauses">BCcauses</string>
+    <string name="top_title">BREAST CANCER AWARENESS APP</string>
+    <string name="bot_title">Created by Cheong, Nihalani, Po</string>
+    <string name="bot_version">Version 1.0</string>
     <string name="title_activity_bcinfo">BCinfo</string>
     <string name="title_activity_help">Help</string>
 
